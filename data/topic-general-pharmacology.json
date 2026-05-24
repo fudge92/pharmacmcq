@@ -94,7 +94,7 @@
         "lozenge"
       ],
       "correctAnswers": [
-        2
+        1
       ]
     },
     {
@@ -105,7 +105,8 @@
         "caramel",
         "suppository",
         "gel",
-        "cream g) paste"
+        "cream",
+        "paste"
       ],
       "correctAnswers": [
         1
