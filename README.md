@@ -1,1 +1,1 @@
-Old pharmac mcq quiz, no redirected to https://sgmumcqs.vercel.app/
+Old pharmac mcq quiz, now redirected to https://sgmumcqs.vercel.app/
